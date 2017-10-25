@@ -16,6 +16,6 @@
   border: 1px solid #fff; /* for debugging */
   width: 900px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
